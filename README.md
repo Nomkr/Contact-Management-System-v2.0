@@ -28,13 +28,6 @@
 
 **网页版** — 推荐日常使用：
 
-![Web界面](https://via.placeholder.com/800x450/4a90d9/ffffff?text=Address+Book+Web+Interface)
-
-**Qt 桌面版**：
-
-![Qt界面](https://via.placeholder.com/800x450/27ae60/ffffff?text=Address+Book+Qt+Interface)
-
----
 
 ## 项目结构
 
