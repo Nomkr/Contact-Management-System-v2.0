@@ -1,0 +1,13 @@
+[
+  {
+    "name": "chhhhh",
+    "gender": 1,
+    "age": 110,
+    "phone": "12345",
+    "email": "123456",
+    "address": "zzzz",
+    "tags": [
+      "vip"
+    ]
+  }
+]

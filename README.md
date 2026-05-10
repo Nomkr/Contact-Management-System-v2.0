@@ -1,5 +1,3 @@
-# Contact Management System-v2.0
-第一次使用vibe coding来完成项目，拿之前手敲的通讯录小项目来练手
 # 通讯录管理系统 v2.0
 
 > C++20 企业级通讯录管理系统，支持 CLI / Qt 桌面 / Web 网页三种交互方式。
@@ -28,6 +26,13 @@
 
 **网页版** — 推荐日常使用：
 
+![Web界面](https://via.placeholder.com/800x450/4a90d9/ffffff?text=Address+Book+Web+Interface)
+
+**Qt 桌面版**：
+
+![Qt界面](https://via.placeholder.com/800x450/27ae60/ffffff?text=Address+Book+Qt+Interface)
+
+---
 
 ## 项目结构
 
