@@ -1,2 +1,2 @@
-# -v2.0
+# Contact Management System-v2.0
 第一次使用vibe coding来完成项目，拿之前手敲的通讯录小项目来练手
